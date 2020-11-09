@@ -13,9 +13,21 @@ __Website:__ The course webpage is available through [Moodle](https://moodle.hu-
 
 ```
 .
-├── README.md            # this readme file
-├── exercises            # notebooks from exercises
-├── homework             # notebooks and other material for exercises
-└── lectures             # notebooks from lectures
+├── README.md                 # this readme file
+├── exercises                 # notebooks from exercises
+├── homework                  # notebooks and other material for exercises
+├── lectures                  # notebooks from lectures
+└── setup                     # setup scripts and requirements
+    ├── requirements.txt
+    └── setup.sh
+```
+
+
+## Setup
+
+To create `virtualenv` and install Python modules run `setup/setup.sh`
+
+```
+bash setup/setup.sh
 ```
 
