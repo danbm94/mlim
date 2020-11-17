@@ -1,5 +1,6 @@
+project: P2V-MAP
 author: sebastian
-version: 1.1
+version: 1.2
 pipeline:
 - data
 - p2v
