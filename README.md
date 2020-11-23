@@ -14,10 +14,10 @@ __Website:__ The course webpage is available through [Moodle](https://moodle.hu-
 ```
 .
 ├── README.md                 # this readme file
-├── exercises                 # notebooks from exercises
+├── exercises                 # exercise notebooks
 ├── homework                  # notebooks and other material for homework
 ├── img                       # images (e.g., for notebooks)
-├── lectures                  # notebooks from lectures (coming soon)
+├── lectures                  # lecture notebooks
 └── setup                     # setup scripts and requirements
     ├── requirements.txt
     └── setup.sh
